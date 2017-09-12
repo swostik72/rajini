@@ -1,0 +1,182 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	width:100%;
+}
+.wrapper{
+	width:1200px;
+	margin:auto;
+}
+.dark{
+	background-color:#31353d;
+	color:white;
+}
+.light{
+	background-color:#e9edf2;
+}
+	.colo{
+	background-image:url(C:/Users/swostik/Desktop/HTML/rajini/rain1.gif);
+
+}
+#top_left{
+	display:inline-block;
+	color: #cccc00;
+	
+}
+#top_right{
+	float:right;
+	color: #cccc00;
+}
+#top_div{
+	height:40px;
+	line-height:40px;
+}
+#logo_left{
+	display:inline-block;
+}
+#logo_right{
+	float:right;
+	margin-top:45px;
+}
+#textstyle{
+	height:35px;
+	border-radius:8px;
+}
+#button{
+	background-color:#1F618D;
+	color:white;
+	padding:8px;
+	border-radius:8px;
+	border:1px solid #1F618D
+}
+#clear{
+	clear:both;
+}
+ul{
+	
+}
+ul li{
+	
+	width:176px;
+	display:inline-block;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+}
+ul li a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+ul li a:hover{
+	background-color:#009900;
+	color:#ffff00
+}
+#slider_image img{
+	width:1170px;
+	border:8px solid #53ff1a;
+	padding:15px;
+	background-color:#669900;
+	box-shadow:5px 5px 20px #0a290a;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+h3{
+	text-align:center;
+}
+p{
+	text-align:justify;
+}
+#text_image{
+	width:150px;
+	margin-left:455px; 
+	cursor:pointer;
+	
+}
+#div_text{
+	width:360px;
+	margin:3px;
+	display:inline-block;
+	margin-top:15px;
+	box-shadow:5px 5px 10px #001a4d;
+	padding:15px;
+	margin-bottom:15px;
+}
+#myimg{
+	margin-left:100px;
+	border:12px solid  #9966ff;
+	width:180px;
+	height:180px;
+	border-radius:50%;
+	box-shadow:10px 5px 10px #26004d;
+}
+#bottom_div_left{
+	display:inline-block;
+	width:770px;
+	color:black;
+	margin-top:15px;
+}
+#bottom_div_right{
+	width:370px;
+	float:right;
+	color:black;
+	margin-top:15px;
+}
+#bottom_div_left img{
+	width:140px;
+	height:160px;
+border:1px solid grey;
+padding:5px;
+margin:4px;
+border-radius:8px;	
+	}
+	#bottom_div_left_text{
+		text-align:left;
+		
+	}
+#latest_news img{
+	height:80px;
+	width:70px;
+	margin:3px;
+	padding:3px;
+	border:1px solid green;
+	border-radius:5px;
+}	
+#footer_section{
+	width:360px;
+	margin:3px;
+	display:inline-block;
+	margin-top:15px;
+	color:black;
+	box-shadow:5px 5px 10px gray;
+	padding:15px;
+	margin-bottom:15px;
+}
+#background{
+	background-image:url(C:/Users/swostik/Desktop/HTML/rajini/bb.jpg);
+	margin-top:15px;
+}
+.wow{
+	background-image:url(C:/Users/swostik/Desktop/HTML/rajini/bb.jpg);
+}
+.blue{
+	background-image:url(C:/Users/swostik/Desktop/HTML/rajini/bb.jpg);
+	font-size:18px;
+	color:black;
+}
+#dog{
+	font-family: 'Concert One', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'Caveat Brush', cursive;
+font-family: 'Bungee Inline', cursive;
+}
+#cat{
+	font-family: 'Concert One', cursive;
+}
+#book{
+	font-family: 'Lobster', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Satisfy', cursive;
+}
